@@ -1,4 +1,4 @@
-package br.com.alura;
+package br.com.adopet;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
