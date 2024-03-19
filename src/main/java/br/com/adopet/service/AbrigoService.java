@@ -12,7 +12,6 @@ import com.google.gson.JsonParser;
 import br.com.adopet.client.ClientHttpConfiguration;
 
 public class AbrigoService {
-    // Teste
     private ClientHttpConfiguration client;
 
     public AbrigoService(ClientHttpConfiguration client) {
